@@ -1,5 +1,5 @@
 ---
-title: The Design for Emergent Futures Approach
+title: Especialización en Fabricación DIigtal e Innovación 
 feature_img: /assets/images/2023-24/welcome-image.jpg
 hide:
     - navigation
