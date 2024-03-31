@@ -15,27 +15,27 @@ nav:
     - https://efdia20212.gitlab.io/efdia2021/
     #- Calendar: 2023-24/year-1/calendar/index.md
     #- Term 1:
-      - 2023-24/year-1/t1/index.md
-      - Design Studio 01: 2023-24/year-1/t1/design-studio-01/index.md
-      - Documenting Design: 2023-24/year-1/t1/documenting-design/index.md
-      - Landing: 2023-24/year-1/t1/landing/index.md
-      - Atlas of Weak Signals: 2023-24/year-1/t1/atlas-of-weak-signals/index.md
-      - The Machine Paradox: 2023-24/year-1/t1/the-machine-paradox/index.md
-      - Living With Your Own Ideas: 2023-24/year-1/t1/living-with-your-own-ideas/index.md
-      - Biology Zero: 2023-24/year-1/t1/biology-zero/index.md
-      - Agriculture Zero: 2023-24/year-1/t1/agriculture-zero/index.md
-      - Design With Others: 2023-24/year-1/t1/design-with-others/index.md
-      - Extended Intelligences: 2023-24/year-1/t1/extended-intelligences/index.md
-    - Term 2:
-      - 2023-24/year-1/t2/index.md
-      - Design Studio II: 2023-24/year-1/t2/design-studio-ii/index.md
-      - Future Talks: 2023-24/year-1/t2/future-talks/index.md
-      - Designing in a State of Climate Emergency: 2023-24/year-1/t2/designing-in-a-state-of-climate-emergency/index.md
-      - Communicating Ideas: 2023-24/year-1/t2/communicating-ideas/index.md
-      - Designing with Collective Intelligence: 2023-24/year-1/t2/designing-with-collective-intelligence/index.md
-      - Designing with Extended Intelligences: 2023-24/year-1/t2/designing-with-extended-intelligences/index.md
-      - Digital Prototyping for Design: 2023-24/year-1/t2/digital-prototyping-for-design/index.md
-      - Measuring The World: 2023-24/year-1/t2/measuring-the-world/index.md
+      #- 2023-24/year-1/t1/index.md
+      #- Design Studio 01: 2023-24/year-1/t1/design-studio-01/index.md
+      #- Documenting Design: 2023-24/year-1/t1/documenting-design/index.md
+      #- Landing: 2023-24/year-1/t1/landing/index.md
+      #- Atlas of Weak Signals: 2023-24/year-1/t1/atlas-of-weak-signals/index.md
+      #- The Machine Paradox: 2023-24/year-1/t1/the-machine-paradox/index.md
+      #- Living With Your Own Ideas: 2023-24/year-1/t1/living-with-your-own-ideas/index.md
+      #- Biology Zero: 2023-24/year-1/t1/biology-zero/index.md
+      #- Agriculture Zero: 2023-24/year-1/t1/agriculture-zero/index.md
+      #- Design With Others: 2023-24/year-1/t1/design-with-others/index.md
+      #- Extended Intelligences: 2023-24/year-1/t1/extended-intelligences/index.md
+    #- Term 2:
+      #- 2023-24/year-1/t2/index.md
+      #- Design Studio II: 2023-24/year-1/t2/design-studio-ii/index.md
+      #- Future Talks: 2023-24/year-1/t2/future-talks/index.md
+      #- Designing in a State of Climate Emergency: 2023-24/year-1/t2/designing-in-a-state-of-climate-emergency/index.md
+      #- Communicating Ideas: 2023-24/year-1/t2/communicating-ideas/index.md
+      #- Designing with Collective Intelligence: 2023-24/year-1/t2/designing-with-collective-intelligence/index.md
+      #- Designing with Extended Intelligences: 2023-24/year-1/t2/designing-with-extended-intelligences/index.md
+      #- Digital Prototyping for Design: 2023-24/year-1/t2/digital-prototyping-for-design/index.md
+      #- Measuring The World: 2023-24/year-1/t2/measuring-the-world/index.md
 
     #   - Design Dialogues: 2023-24/year-1/t2/design-dialogues/index.md
     #   - Making Sense and Meaning: 2023-24/year-1/t2/making-sense-and-meaning/index.md
@@ -51,16 +51,16 @@ nav:
     #   - MDEFest 2023: 2023-24/year-1/t3/mdefest/index.md
     #   - Digital Prototyping for Design: 2023-24/year-1/t3/digital-prototyping-for-design/index.md
   #- Year 2:
-    - 2023-24/year-2/index.md
-    - Calendar: 2023-24/year-2/calendar/index.md
-    - Thesis Project: 2023-24/year-2/modules/thesis-project/index.md
-    - Research & Methods: 2023-24/year-2/modules/research-methods/index.md
-    - Circular Matter: 2023-24/year-2/modules/circular-matter/index.md
-    - Business Innovation: 2023-24/year-2/modules/business-innovation/index.md
-    - Theories of the Urban: 2023-24/year-2/modules/theories-of-the-urban/index.md
-    - Interaction and Prototyping: 2023-24/year-2/modules/interaction-and-prototyping/index.md
-    - Ecological Interactions: 2023-24/year-2/modules/ecological-interactions/index.md
-    - Urban Shift: 2023-24/year-2/modules/urban-shift/index.md
+    #- 2023-24/year-2/index.md
+    #- Calendar: 2023-24/year-2/calendar/index.md
+    #- Thesis Project: 2023-24/year-2/modules/thesis-project/index.md
+    #- Research & Methods: 2023-24/year-2/modules/research-methods/index.md
+    #- Circular Matter: 2023-24/year-2/modules/circular-matter/index.md
+    #- Business Innovation: 2023-24/year-2/modules/business-innovation/index.md
+    #- Theories of the Urban: 2023-24/year-2/modules/theories-of-the-urban/index.md
+    #- Interaction and Prototyping: 2023-24/year-2/modules/interaction-and-prototyping/index.md
+    #- Ecological Interactions: 2023-24/year-2/modules/ecological-interactions/index.md
+    #- Urban Shift: 2023-24/year-2/modules/urban-shift/index.md
 
     # - Term 2:
     #   - 2023-24/year-2/t2/index.md
