@@ -10,7 +10,7 @@ hide:
 
 Welcome to the MDEF Library where you will find all the detailed information for MDEF program. You can check back as new course information becomes available.
 
-If you need to consult general program information, you can see the [program booklet](https://iaac.net/wp-content/uploads/2022/11/MDEF-Booklet.pdf).
+If you need to consult general program information, you can see the [program booklet](https://utec.edu.uy/uploads/plan/aae9141ec11a54d8a37697a357b1e167f51bf041.pdf).
 
 On this website you will find syllabi, reading lists, schedules, and faculty details, among other resources.
 
