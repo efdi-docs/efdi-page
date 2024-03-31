@@ -1,5 +1,5 @@
 ---
-title: Especialización en Fabricación DIigtal e Innovación 
+title: Especialización en Fabricación Digital e Innovación 
 feature_img: /assets/images/2023-24/welcome-image.jpg
 hide:
     - navigation
