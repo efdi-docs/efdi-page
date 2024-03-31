@@ -2,7 +2,7 @@
 hide:
     - toc
     - navigation
-Estudiantes:
+students:
     Manuja Agnohotri:
         photo: /assets/images/students/6906.jpg
         website: https://manujaagnihotri.github.io/MDEFPortfolio/
