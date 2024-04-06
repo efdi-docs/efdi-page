@@ -3,7 +3,7 @@ hide:
     - toc
     - navigation
 students:
-    Lala Agnohotri:
+    Lala lala:
         photo: /assets/images/students/6906.jpg
         website: https://manujaagnihotri.github.io/MDEFPortfolio/
     Nicolò Baldi:
