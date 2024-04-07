@@ -62,22 +62,22 @@ La Especialización en Fabricación Digital e Innovación te permitirá formarte
 
 ## Recommendaciones
 
-**Be supportive.** :fontawesome-solid-heart:{ .icon-padding-left .icon-color .heart }
+**Sé solidario.** :fontawesome-solid-heart:{ .icon-padding-left .icon-color .heart }
 
-Encourage and support your fellow students. No one here is looking for your criticism, cynicism, advice, or judgment. (We can get those things on the rest of the Internet).
+Anima y apoya a tus compañeros estudiantes. Nadie aquí está buscando tu crítica, cinismo, consejo o juicio. (Podemos encontrar esas cosas en el resto de Internet).
 
-**Share generously.** :fontawesome-solid-handshake-angle:{ .icon-padding-left .icon-color .share }
+**Comparte generosamente.** :fontawesome-solid-handshake-angle:{ .icon-padding-left .icon-color .share }
 
-Your stories and experiences may be exactly what another student needs to hear today to solve a problem or seize an opportunity.
+Tus historias y experiencias pueden ser exactamente lo que otro estudiante necesita escuchar hoy para resolver un problema o aprovechar una oportunidad.
 
-**Be constructive.** :fontawesome-solid-wrench:{ .icon-padding-left .icon-color .turn }
+**Sé constructivo.** :fontawesome-solid-wrench:{ .icon-padding-left .icon-color .turn }
 
-We're here to push each other forward and lift each other up. Find ways to help each other think bigger, reframe challenges, and stay curious.
+Estamos aquí para impulsarnos mutuamente hacia adelante y levantarnos unos a otros. Encuentra formas de ayudar mutuamente a pensar en grande, reformular desafíos y mantenerse curiosos.
 
-**Don't spam, promote, or troll.** :fontawesome-solid-meteor:{ .icon-padding-left .icon-color .meteor }
+**No hagas spam, promoción ni acoso.** :fontawesome-solid-meteor:{ .icon-padding-left .icon-color .meteor }
 
-The program exists to help you learn. It's not a place to spam, promote, or bully anyone else.
+El programa existe para ayudarte a aprender. No es un lugar para hacer spam, promoción o acosar a nadie más.
 
-**Keep an open mind.** :fontawesome-solid-brain:{ .icon-padding-left .icon-color .brain }
+**Mantén una mente abierta.** :fontawesome-solid-brain:{ .icon-padding-left .icon-color .brain }
 
-Yep, this isn't your average University course - you wouldn't be here if it was. You are encouraged at all times to keep your mind open and flexible. Embrace change, embrace the unusual - and trust the process.
+Exacto, este no es tu curso universitario promedio; no estarías aquí si lo fuera. Se te anima en todo momento a mantener tu mente abierta y flexible. Acepta el cambio, acepta lo inusual y confía en el proceso.
