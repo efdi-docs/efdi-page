@@ -80,4 +80,4 @@ El programa existe para ayudarte a aprender. No es un lugar para hacer spam, pro
 
 **Mantén una mente abierta.** :fontawesome-solid-brain:{ .icon-padding-left .icon-color .brain }
 
-Exacto, este no es tu curso universitario promedio; no estarías aquí si lo fuera. Se te anima en todo momento a mantener tu mente abierta y flexible. Acepta el cambio, acepta lo inusual y confía en el proceso.
+Se te anima en todo momento a mantener tu mente abierta y flexible. Acepta el cambio, acepta lo inusual y confía en el proceso.
