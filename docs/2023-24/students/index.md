@@ -6,10 +6,10 @@ students:
     Victoria García:
         photo: /assets/images/students/6906.jpg
         website: https://manujaagnihotri.github.io/MDEFPortfolio/
-    xxxxxx:
+    lala lala:
         photo: /assets/images/students/6917.jpeg
         website: https://niente010.github.io/MDEF_website/#welcome
-    xxxxxx:
+    lala lala:
         photo: /assets/images/students/7000.png
         website: https://floraroseberkowitz.github.io/
     xxxxxx:
