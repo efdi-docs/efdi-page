@@ -5,73 +5,52 @@ hide:
 students:
     Victoria García:
         photo: /assets/images/students/6906.jpg
-        website: https://manujaagnihotri.github.io/MDEFPortfolio/
-    lala lala:
+        website: https://mvicogarcia.github.io/Victoria_Garcia/
+    Nicolás Duarte:
         photo: /assets/images/students/6917.jpeg
-        website: https://niente010.github.io/MDEF_website/#welcome
-    lala lala:
+        website: https://nicodq.github.io/nicolas-duarte-efdi-2024/
+    Mateo Olivera:
         photo: /assets/images/students/7000.png
-        website: https://floraroseberkowitz.github.io/
-    xxxxxx:
+        website: https://wwwteo.github.io/mateo_olivera/
+    Franco Pacilio:
         photo: /assets/images/students/6751.jpeg
-        website: https://vania-bisbal.github.io/repo-website/
-    xxxxxx:
+        website: https://francopacilio.github.io/franco_pacilio/
+    Nicolás Reggi:
         photo: /assets/images/students/6936.png
-        website: https://everardocastro.github.io/mdef1/
-    xxxxxx:
+        website: https://everardocastro.github.io/md/
+    María Noel Belo:
         photo: /assets/images/students/6880.jpg
-        website: https://jdlm92.github.io/MDEFsite/
-    xxxxxx:
-        photo: /assets/images/students/6406.jpg
-        website: https://33dudu.github.io/magicreator/
-    xxxxxx:
+        website: https://jdlm92.github.io/MD/
+    Francisco Guimaraens:
         photo: /assets/images/students/6786.jpg
-        website: https://anthuanetf.github.io/MDEF/
-    xxxxxx:
-        photo: /assets/images/students/6915.jpeg
-        website: https://annafedele.github.io/mdef/
-    xxxxxx:
+        website: https://franciscoguimaraens.github.io/efdi-template/
+    Marcel Bentancor:
+        photo: /assets/images/students/6406.jpg
+        website: https://marcelbentancor.github.io/marcel_bentancor/
+    Lucía Rossi:
         photo: /assets/images/students/6696.jpg
-        website: https://panchipunchi.github.io/mdef1/
-    xxxxxx:
+        website: https://bitacoralu.github.io/lucia_rossi/
+    Edgardo Saracho:
         photo: /assets/images/students/6680.jpg
-        website: https://chylkemamdef.github.io/MyPortfolio/index.html
-    xxxxxx:
+        website: https://edg-saracho.github.io/Edgardo_Saracho/
+    Cecilia Barrán:
         photo: /assets/images/students/6908.JPG
-        website: https://oliver-lloyd-mdef.github.io/Oliver-MDEF-Portfolio/
-    xxxxxx:
+        website: https://ceciliabarran.github.io/cecilia_barran/
+    Leonardo Eguia:
         photo: /assets/images/students/6951.png
-        website: https://annnalozano.github.io/PaginaWeb/ 
-    xxxxxx:
+        website: https://le0nidas1.github.io/leonardo_eguia/ 
+    Santiago Ferreira:
         photo: /assets/images/students/6824.JPG
-        website: https://minnie-at-iaac.github.io/
-    xxxxxx:
+        website: https://cosmikspin.github.io/santiago-ferreira/
+    Pilar García Olano:
         photo: /assets/images/students/7005.jpg
-        website: https://sophma.github.io/myMDEFportfolio/
-    xxxxxx:
+        website: https://pilargarciaolano.github.io/Pilar_GarciaOlano/tecnicos/mt01/
+    Mathías Rodríguez:
         photo: /assets/images/students/7007.jpg
-        website: https://jmuozan.github.io/mdef-website/
-    xxxxxx:
+        website: https://mathira.github.io/EDFI/
+    Pablo Castro:
         photo: /assets/images/students/6764.png
-        website: https://grayson-iaac.github.io/MDEF/
-    xxxxxx:
-        photo: /assets/images/students/6889.jpeg
-        website: https://dhrishyaramadass.github.io/mdefwebsite/
-    xxxxxx:
-        photo: /assets/images/students/6763.jpg
-        website: https://carmenrobres.github.io/portfolio/
-    xxxxxx:
-        photo: /assets/images/students/6837.jpg
-        website: https://marius-schairer.github.io/MDEF_Documentation/
-    xxxxxx: 
-        photo: /assets/images/students/7035.jpg
-        website: https://nuriavalsells.github.io/MDEF/
-    xxxxxx:
-        photo: /assets/images/students/6999.jpg
-        website: https://avilabon.github.io/MDEF_Albert/
-    xxxxxx:
-        photo: 
-        website: https://caglaralkan.github.io/MDEF/
+        website: https://pablocastro-s.github.io/pablo-castro/
 ---
 
 # Students
