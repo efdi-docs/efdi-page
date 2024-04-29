@@ -398,7 +398,7 @@ button.fullscreen_button:hover{
 .student-icon-container {
     width: 150px;
     height: 150px;
-    background-color: rgba(255, 255, 255, 0.264);
+    background-color: rgba(255, 255, 255, 0.972);
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -454,29 +454,29 @@ h2.student-name {
 }
 
 .md-typeset table:not([class]) tbody tr {
-    background-color: #4983ff29;
+    background-color: #49ff4f29;
 }
 
 .md-typeset table:not([class]) tbody tr:hover {
-    background-color: hsla(221, 100%, 64%, 0.322);
+    background-color: hsla(125, 100%, 64%, 0.322);
     box-shadow: 0 .05rem 0 var(--md-default-bg-color) inset;
 }
 
 /* ----------CONTENT TABS (SCHEDULES)---------- */
 
 .md-typeset .tabbed-set {
-	background-color: #4983ff29;
+	background-color: #49ff4f29;
 	padding: 5px 20px;
     border-radius: 10px;
 }
 
 .md-typeset .tabbed-control--next {
-	background: #4983ff00;
+	background: #49ff6100;
     padding-right: 5px;
 }
 
 .md-typeset .tabbed-control--prev {
-    background: #4983ff00;
+    background: #49ff8000;
 }
 
 /* ----------HIGHLIGHT SECTIONS---------- */
@@ -513,7 +513,7 @@ h2.student-name {
 }
 
 .highlight-block {
-    background-color: #4983ff29;
+    background-color: #49ff5829;
     padding: 50px;
     display: grid;
     align-items: center;
@@ -549,7 +549,7 @@ h2.student-name {
 }
 
 .shadow-block {
-    background-color: #4983ff29;
+    background-color: #49ff6d29;
     padding: 50px;
     display: grid;
     align-self: center;
@@ -557,7 +557,7 @@ h2.student-name {
     font-size: 20px;
 }
 .shadow-block:hover {
-    background-color: hsla(221, 100%, 64%, 0.322);
+    background-color: hsla(125, 100%, 64%, 0.322);
 }
 
 /* ----------CUSTOM ADMONITION ECTS---------- */
