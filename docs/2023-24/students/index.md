@@ -17,7 +17,7 @@ students:
         website: https://francopacilio.github.io/franco_pacilio/
     Nicolás Reggi:
         photo: /assets/images/students/6936.png
-        website: https://everardocastro.github.io/md/
+        website: https://nicolas-reggi.github.io/nicolas-reggi/
     María Noel Belo:
         photo: /assets/images/students/6880.jpg
         website: https://jdlm92.github.io/MD/
