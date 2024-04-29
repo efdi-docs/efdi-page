@@ -20,7 +20,7 @@ students:
         website: https://nicolas-reggi.github.io/nicolas-reggi/
     María Noel Belo:
         photo: /assets/images/students/6880.jpg
-        website: https://jdlm92.github.io/MD/
+        website: https://marian-82.github.io/marianoel_belo/diseno/md01/
     Francisco Guimaraens:
         photo: /assets/images/students/6786.jpg
         website: https://franciscoguimaraens.github.io/efdi-template/
