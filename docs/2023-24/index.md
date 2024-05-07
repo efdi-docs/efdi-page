@@ -1,6 +1,6 @@
 ---
 title: Especialización en Fabricación Digital e Innovación 
-feature_img: /assets/images/2023-24/welcome-image.jpg
+feature_img: /docs/assets/images/2023-24/welcome-image.jpg
 hide:
     - navigation
 ---
