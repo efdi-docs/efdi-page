@@ -874,12 +874,12 @@ background-color: var(--md-accent-fg-color);
         border-radius: 10px;
         border-width: 2px;
         border-style: solid;
-        background-color: #406150e5;
+        background-color: #06340ea6;
         padding: 20px 10px;
     }
 
     .highlight-block {
-        background-color: #406150e5;
+        background-color: #06340ea6;
         display: grid;
         grid-template-rows: auto;
         align-items: flex-start;
