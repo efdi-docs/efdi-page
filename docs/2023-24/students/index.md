@@ -10,10 +10,10 @@ students:
         photo: /assets/images/students/6917.jpeg
         website: https://nicodq.github.io/nicolas-duarte-efdi-2024/
     Mateo Olivera:
-        photo: \assets\images\students\mateo.jpg
+        photo: /assets/images/students/mateo.jpg
         website: https://wwwteo.github.io/mateo_olivera/
     Franco Pacilio:
-        photo:![](/docs/assets/images/students/mateo2.jpg)
+        photo: /assets/images/students/6751.jpeg
         website: https://francopacilio.github.io/franco_pacilio/
     Nicolás Reggi:
         photo: /assets/images/students/6936.png
