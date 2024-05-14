@@ -3,7 +3,7 @@ site_description: EFDI Documentation
 site_author: Fab Lab Barcelona, UTEC
 site_url: https://efdi-docs.github.io/efdi-page/
 repo_name: efdi-page
-repo_url: https://github.com/efdi-docs/efdi-page
+repo_url: https://github.com/efdi-docs/efdi-page 
 edit_uri: edit/main/docs/
 
 nav:
