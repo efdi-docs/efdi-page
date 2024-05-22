@@ -13,7 +13,7 @@ students:
         photo: /assets/images/students/mateo.jpg
         website: https://wwwteo.github.io/mateo_olivera/
     Franco Pacilio:
-        photo: /assets/images/students/mateo.jpg
+        photo: <img src="assets/images/students/mateo.jpg" alt="mateo"> 
         website: https://francopacilio.github.io/franco_pacilio/
     Nicolás Reggi:
         photo: /assets/images/students/mateo.jpg
