@@ -2,7 +2,7 @@
 hide:
     - toc
     - navigation
-students:
+Estudiantes:
     Victoria García:
         photo: /assets/images/students/mateo.jpg
         website: https://mvicogarcia.github.io/Victoria_Garcia/
@@ -60,6 +60,6 @@ students:
 
 <div class="button-container">
 
-<a class="md-button" href="https://efdia20212.gitlab.io/efdia2021/">See student websites from previous years</a>
+<a class="md-button" href="https://efdia20212.gitlab.io/efdia2021/">Ver sitios web de estudiantes de años anteriores</a>
 
 </div>

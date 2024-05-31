@@ -104,3 +104,11 @@ El programa existe para ayudarte a aprender. No es un lugar para hacer spam, pro
 **Mantén una mente abierta.** :fontawesome-solid-brain:{ .icon-padding-left .icon-color .brain }
 
 Se te anima en todo momento a mantener tu mente abierta y flexible. Acepta el cambio, acepta lo inusual y confía en el proceso.
+
+## Recommendaciones
+
+<div class="button-container">
+
+<a class="md-button" href="https://efdia20212.gitlab.io/efdia2021/">Lista de materiales</a>
+
+</div>
