@@ -11,7 +11,7 @@ nav:
   #- Faculty: https://utec.edu.uy/es/educacion/posgrado/especializacion-en-fabricacion-digital-e-innovacion/
   - Estudiantes: 2023-24/students/index.md
   # - Research Trip: 2023-24/research-trip/index.md
-  #- Year 1:
+  - Year 1:
     #- https://efdia20212.gitlab.io/efdia2021/
     - Calendar: 2023-24/year-1/inventario/index.md
     #- Term 1:
