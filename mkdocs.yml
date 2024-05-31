@@ -12,9 +12,10 @@ nav:
   - Estudiantes: 2023-24/students/index.md
   # - Research Trip: 2023-24/research-trip/index.md
   - Year 1:
-    #- https://efdia20212.gitlab.io/efdia2021/
-    - Calendar: 2023-24/year-1/calendar/index.md
-    #- Term 1:
+    - 2023-24/year-1/calendar/index.md
+  # - 2023-24/year-1/index.md
+  # - Calendar: 2023-24/year-1/calendar/index.md
+  # - Term 1:
       #- 2023-24/year-1/t1/index.md
       #- Design Studio 01: 2023-24/year-1/t1/design-studio-01/index.md
       #- Documenting Design: 2023-24/year-1/t1/documenting-design/index.md
