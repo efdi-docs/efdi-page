@@ -83,7 +83,15 @@ duración de una semana cada uno.</p>
     </div>
 </div>
 
-## Recommendaciones
+## Inventario 
+
+<div class="button-container">
+
+<a class="md-button" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQBIXQXPXEgtKgPDISXu48pYnJuk9qCLgLHRlPdfjIrZgqthp1frnfyU0uWkQSgmf-h9fVXn2AAHRT/pubhtml?gid=0&single=true">Lista de materiales</a>
+
+</div>
+
+## Recomendaciones
 
 **Sé solidario.** :fontawesome-solid-heart:{ .icon-padding-left .icon-color .heart }
 
@@ -104,11 +112,3 @@ El programa existe para ayudarte a aprender. No es un lugar para hacer spam, pro
 **Mantén una mente abierta.** :fontawesome-solid-brain:{ .icon-padding-left .icon-color .brain }
 
 Se te anima en todo momento a mantener tu mente abierta y flexible. Acepta el cambio, acepta lo inusual y confía en el proceso.
-
-## Recommendaciones
-
-<div class="button-container">
-
-<a class="md-button" href="https://efdia20212.gitlab.io/efdia2021/">Lista de materiales</a>
-
-</div>

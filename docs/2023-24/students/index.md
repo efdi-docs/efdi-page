@@ -2,7 +2,7 @@
 hide:
     - toc
     - navigation
-Estudiantes:
+students:
     Victoria García:
         photo: /assets/images/students/mateo.jpg
         website: https://mvicogarcia.github.io/Victoria_Garcia/
@@ -53,7 +53,7 @@ Estudiantes:
         website: https://pablocastro-s.github.io/pablo-castro/
 ---
 
-# Students
+# Students 
 
 {{ insert_students() }}
 
