@@ -44,7 +44,7 @@ students:
         website: https://cosmikspin.github.io/santiago-ferreira/
     Pilar García Olano:
         photo: /assets/images/students/mateo.jpg
-        website: https://pilargarciaolano.github.io/Pilar_GarciaOlano/tecnicos/mt01/
+        website: https://pilargo.github.io/efdi2024PilarGo/
     Mathías Rodríguez:
         photo: /assets/images/students/mateo.jpg
         website: https://mathira.github.io/EDFI/
