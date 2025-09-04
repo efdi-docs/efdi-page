@@ -18,7 +18,7 @@
 
 :root {
     /* --primary-color:  #4983ff; */
-    --primary-color:  #025646;
+    --primary-color:  #32bba2;
     /* --primary-color-light-mode: #1c449a; */
     --primary-color-light-mode: #025646;
     --white: #fbfbfe;
@@ -51,7 +51,7 @@ img {
     --md-primary-fg-color--opposite: var(--black);
     --md-primary-bg-color: var(--white);
     --md-default-bg-color: var(--white);
-    --md-primary-bg-color--light:#ffffffb3;
+    --md-primary-bg-color--light:#000000b3;
     --md-footer-bg-color: var(--primary-color-light-mode);
 }
 
