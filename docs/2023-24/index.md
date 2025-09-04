@@ -10,7 +10,7 @@ hide:
 
 Bienvenidos a la Especiliazación en Fabricación Digital e Innovación. 
 
-Si necesitas consultar información general sobre el programa, puedes ver [program booklet](https://utec.edu.uy/uploads/plan/aae9141ec11a54d8a37697a357b1e167f51bf041.pdf).
+Si necesitas consultar información general sobre el programa, puedes ver [program booklet](https://utec.edu.uy/uploads/plan/856b1644d4df79255b1ae2c24f1b320252eb66fc.pdf).
 
 
 ## Programa
