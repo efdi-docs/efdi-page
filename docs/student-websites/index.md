@@ -9,7 +9,7 @@ students:
         photo: ../../assets/images/students/victoria_garcia.jpeg
         website: https://mvicogarcia.github.io/Victoria_Garcia/
     Nicolás Duarte:
-        photo: ../../assets/images/students/nicolas_duarte.jpg
+        photo: ../assets/images/students/nicolas_duarte.jpg
         website: https://nicodq.github.io/nicolas-duarte-efdi-2024/
     Mateo Olivera:
         photo: ../../assets/images/students/mateo_olivera.png
@@ -60,10 +60,6 @@ students:
 {{ insert_students() }}
 
 
-[Academic Year 2021-22](/2023-24/students/){ .shadow-block }
+[Academic Year 2021-22](../2023-24/students/){ .shadow-block }
 
 [Academic Year 2022-23](https://efdia20212.gitlab.io/efdia2021/){ .shadow-block }
-
-[Academic Year 2021-22](/student-websites/2021-22/){ .shadow-block }
-
-[Academic Year 2020-21](/student-websites/2020-21/){ .shadow-block }
