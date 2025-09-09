@@ -6,8 +6,8 @@ hide:
 
 students:
     Juan Pedro De León:
-        photo: ../assets/images/students/juanpedro_deleon.jpg
-        website: https://mathira.github.io/efdi-template/
+        photo: ../assets/images/students/juanpedro_deleon.jpeg
+        website: https://juandeleon-utec.github.io/Juan_de_Leon/
     María Josefina Martínez:
         photo: ../assets/images/students/josefina_martinez.jpg
         website: https://mathira.github.io/efdi-template/
@@ -25,13 +25,13 @@ students:
         website: https://mathira.github.io/efdi-template/
     Álvaro Salem:
         photo: ../assets/images/students/alvaro_salem.png
-        website: https://mathira.github.io/efdi-template/
+        website: https://cronostop.github.io/alvaro_salem/
     Eduard Pio Flores:
         photo: ../assets/images/students/pio_flores.png
         website: https://mathira.github.io/efdi-template/
     Stephanie Urbano:
         photo: ../assets/images/students/stephanie_urbano.png
-        website: https://mathira.github.io/efdi-template/
+        website: https://surbanopa.github.io/stephanie_urbanop/
     Lucía Rodríguez:
         photo: ../assets/images/students/lucia_rodriguez.png
         website: https://mathira.github.io/efdi-template/
