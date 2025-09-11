@@ -21,14 +21,14 @@ students:
         photo: ../assets/images/students/irene_costa.jpg
         website: https://mathira.github.io/efdi-template/
     Renato Sosa:
-        photo: ../assets/images/students/renato_sosa.jpg
-        website: https://mathira.github.io/efdi-template/
+        photo: ../assets/images/students/renato_sosa.jpeg
+        website: https://renatososa.github.io/renato-scheeffer/
     Álvaro Salem:
         photo: ../assets/images/students/alvaro_salem.png
         website: https://cronostop.github.io/alvaro_salem/
     Eduard Pio Flores:
         photo: ../assets/images/students/pio_flores.png
-        website: https://mathira.github.io/efdi-template/
+        website: https://pioflores-1985.github.io/eduard-flores/
     Stephanie Urbano:
         photo: ../assets/images/students/stephanie_urbano.jpg
         website: https://surbanopa.github.io/stephanie_urbanop/
