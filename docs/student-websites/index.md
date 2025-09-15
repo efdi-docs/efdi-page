@@ -10,10 +10,10 @@ students:
         website: https://juandeleon-utec.github.io/Juan_de_Leon/
     María Josefina Martínez:
         photo: ../assets/images/students/josefina_martinez.jpg
-        website: https://mathira.github.io/efdi-template/
+        website: https://josemartinezc.github.io/josefina-martinez/
     Luis Blau:
         photo: ../assets/images/students/luis_blau.jpg
-        website: https://mathira.github.io/efdi-template/
+        website: https://luchoblau-gh.github.io/Luis-Blau/
     Andrea Lorieto:
         photo: ../assets/images/students/andrea_lorieto.jpg
         website: https://mathira.github.io/efdi-template/
