@@ -15,7 +15,7 @@ students:
         photo: ../assets/images/students/luis_blau.jpg
         website: https://luchoblau-gh.github.io/Luis-Blau/
     Andrea Lorieto:
-        photo: ../assets/images/students/andrea_lorieto.jpg
+        photo: ../assets/images/students/andrea_lorieto.png
         website: https://mathira.github.io/efdi-template/
     Irene Costa:
         photo: ../assets/images/students/irene_costa.jpg
