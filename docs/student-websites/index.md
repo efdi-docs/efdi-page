@@ -16,10 +16,10 @@ students:
         website: https://luchoblau-gh.github.io/Luis-Blau/
     Andrea Lorieto:
         photo: ../assets/images/students/andrea_lorieto.png
-        website: https://mathira.github.io/efdi-template/
+        website: https://ANDREmaker2025.github.io/andrea-lorieto/
     Irene Costa:
         photo: ../assets/images/students/irene_costa.jpg
-        website: https://mathira.github.io/efdi-template/
+        website: https://irenecostar.github.io/Irene-Costa/
     Renato Sosa:
         photo: ../assets/images/students/renato_sosa.jpeg
         website: https://renatososa.github.io/renato-scheeffer/
@@ -34,7 +34,7 @@ students:
         website: https://surbanopa.github.io/stephanie_urbanop/
     Lucía Rodríguez:
         photo: ../assets/images/students/lucia_rodriguez.jpg
-        website: https://mathira.github.io/efdi-template/
+        website: https://luzroxim.github.io/claudia-rodriguez/about/me/
 ---
 
 # Estudiantes 
