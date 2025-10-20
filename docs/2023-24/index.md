@@ -19,7 +19,8 @@ La especialización tiene como objetivo desarrollar profesionales capacitados en
 
 Se basa en un modelo de **aprendizaje distribuido** que combina la educación en línea y la práctica. Esto permite conectar a una comunidad global de agentes de cambio con innovadores locales para abordar diversos desafíos.
 
-La Especialización en Fabricación Digital e Innovación te permitirá formarte con referentes y expertos de UTEC y del [Fab Lab Barcelona en el Instituto de Arquitectura Avanzada de Cataluña (IAAC)](https://fablabbcn.org/), quienes codirigen el programa y realizan la curaduría. Fab Lab Barcelona es el primer laboratorio de fabricación digital de la Unión Europea creado en 2007 a partir del Center for Bits and Atoms (CBA) del Massachusetts Institute of Technology (MIT).
+La Especialización en Fabricación Digital e Innovación te permitirá formarte con referentes y expertos de [UTEC](https://utec.edu.uy/es/educacion/posgrado/especializacion-en-fabricacion-digital-e-innovacion/).
+ y del [Fab Lab Barcelona en el Instituto de Arquitectura Avanzada de Cataluña (IAAC)](https://fablabbcn.org/), quienes codirigen el programa y realizan la curaduría. Fab Lab Barcelona es el primer laboratorio de fabricación digital de la Unión Europea creado en 2007 a partir del Center for Bits and Atoms (CBA) del Massachusetts Institute of Technology (MIT).
 
 <div class="highlight-section overview-page">
     <div class="highlight-block">
