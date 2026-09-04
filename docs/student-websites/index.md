@@ -40,7 +40,7 @@ students:
 # Estudiantes 
 
 {{ insert_students() }}
-[Edición 2025-26](../2025-26/students/){ .shadow-block }
+
 
 [Edición 2024-25](../2023-24/students/){ .shadow-block }
 
