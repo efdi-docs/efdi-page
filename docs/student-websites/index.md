@@ -6,7 +6,7 @@ hide:
 
 students:
     Juan Pedro De León:
-        photo: ../assets/images/students/juanpedro.jpeg
+        photo: ../assets/images/students/pgen.png
         website: https://juandeleon-utec.github.io/Juan_de_Leon/
     María Josefina Martínez:
         photo: ../assets/images/students/josefina_martinez.jpg
