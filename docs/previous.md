@@ -1,11 +1,11 @@
 ---
-title: Previous Years
+title: Ediciones anteriores
 hide:
     - toc
     - navigation
 ---
 
-# Previous Years
+# Ediciones anteriores
 
 [Edición 2025-26](../2025-26/students/){ .shadow-block }
 
