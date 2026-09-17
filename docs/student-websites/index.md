@@ -5,36 +5,48 @@ hide:
     - navigation
 
 students:
-    Juan Pedro De León:
-        photo: ../assets/images/students/juanpedro.jpeg
-        website: https://juandeleon-utec.github.io/Juan_de_Leon/
-    María Josefina Martínez:
-        photo: ../assets/images/students/josefina_martinez.jpg
-        website: https://josemartinezc.github.io/josefina-martinez/
-    Luis Blau:
-        photo: ../assets/images/students/luis_blau.jpg
-        website: https://luchoblau-gh.github.io/Luis-Blau/
-    Andrea Lorieto:
-        photo: ../assets/images/students/andrea_lorieto.png
-        website: https://ANDREmaker2025.github.io/andrea-lorieto/
-    Irene Costa:
-        photo: ../assets/images/students/irene_costa.jpg
-        website: https://irenecostar.github.io/Irene-Costa/
-    Renato Sosa:
-        photo: ../assets/images/students/renato_sosa.jpeg
-        website: https://renatososa.github.io/renato-scheeffer/
-    Álvaro Salem:
-        photo: ../assets/images/students/alvaro_salem.jpg
-        website: https://cronostop.github.io/alvaro_salem/
-    Eduard Pio Flores:
-        photo: ../assets/images/students/pio_flores.jpg
-        website: https://pioflores-1985.github.io/eduard-flores/
-    Stephanie Urbano:
-        photo: ../assets/images/students/stephanie_urbano.jpg
-        website: https://surbanopa.github.io/stephanie_urbanop/
-    Lucía Rodríguez:
-        photo: ../assets/images/students/lucia_rodriguez.jpg
-        website: https://luzroxim.github.io/claudia-rodriguez/about/me/
+    Emilia Argimon:
+        photo: ../assets/images/students/.jpeg
+        website: https://argimonemilia.github.io/emilia_argimon/
+    Analía Arbiza:
+        photo: ../assets/images/students/.jpg
+        website: https://arbizaanalia.github.io/analia_arbiza/
+    Martín Ferreira:
+        photo: ../assets/images/students/.jpg
+        website: https://martinfp642.github.io/martin_ferreira/
+    Santiago Rostán:
+        photo: ../assets/images/students/.png
+        website: https://srostan.github.io/santiago_rostan_efdi/
+    Sofía Gambetta:
+        photo: ../assets/images/students/.jpg
+        website: https://sogambetta.github.io/sofia_gambetta/
+    Magdalena Cacciavillani:
+        photo: ../assets/images/students/.jpeg
+        website: https://magui053.github.io/Magdalena-Cacciavillani/
+    Federica Rivedieu:
+        photo: ../assets/images/students/.jpg
+        website: https://frivedieu-pixel.github.io/federica-rivedieu/
+    Flavia Pérez da Luz:
+        photo: ../assets/images/students/.jpg
+        website: https://flau-87.github.io/flavia-perez/
+    Paola Maldonado:
+        photo: ../assets/images/students/.jpg
+        website: https://mpmaldonado.github.io/paola-maldonado/
+    Paula Diaz:
+        photo: ../assets/images/students/.jpg
+        website: https://pauladiazcalo.github.io/paula-diaz/
+    Beatriz Segredo:
+        photo: ../assets/images/students/.jpg
+        website: https://beasegredo-design.github.io/beatriz-segredo/
+    Fernando Collazo:
+        photo: ../assets/images/students/.jpg
+        website: https://nandocollazo03.github.io/fernando-collazo/
+    Ariana Figueroa:
+        photo: ../assets/images/students/.jpg
+        website: https://mpmaldonado.github.io/xxxx/
+    Diego Rey Sun Han:
+        photo: ../assets/images/students/.jpg
+        website: https://diegoreysunhan.github.io/diego-reysunhan/
 ---
 
 # Estudiantes 
