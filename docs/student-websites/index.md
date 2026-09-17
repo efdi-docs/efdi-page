@@ -6,7 +6,7 @@ hide:
 
 students:
     Juan Pedro De León:
-        photo: ../assets/images/students/pgen.png
+        photo: ../assets/images/students/juanpedro.jpeg
         website: https://juandeleon-utec.github.io/Juan_de_Leon/
     María Josefina Martínez:
         photo: ../assets/images/students/josefina_martinez.jpg
@@ -41,4 +41,7 @@ students:
 
 {{ insert_students() }}
 
-[Edición 2025-26](../2025-26/students/){ .shadow-block }
+
+[Edición 2024-25](../2023-24/students/){ .shadow-block }
+
+[Edición 2023-24](https://efdia20212.gitlab.io/efdia2021/){ .shadow-block }
