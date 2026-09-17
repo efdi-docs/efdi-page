@@ -9,7 +9,7 @@ students:
         photo: ../assets/images/students/emilia_argimon.png
         website: https://argimonemilia.github.io/emilia_argimon/
     Analía Arbiza:
-        photo: ../assets/images/students/analia_arbiza.jpg
+        photo: ../assets/images/students/analia_arbiza.jpeg
         website: https://arbizaanalia.github.io/analia_arbiza/
     Martín Ferreira:
         photo: ../assets/images/students/martin_ferreira.png
