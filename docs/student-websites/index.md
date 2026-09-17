@@ -15,13 +15,13 @@ students:
         photo: ../assets/images/students/martin_ferreira.png
         website: https://martinfp642.github.io/martin_ferreira/
     Santiago Rostán:
-        photo: ../assets/images/students/santiago_rostan.png
+        photo: ../assets/images/students/santiago_rostan.jpg
         website: https://srostan.github.io/santiago_rostan_efdi/
     Sofía Gambetta:
         photo: ../assets/images/students/sofia_gambetta.jpg
         website: https://sogambetta.github.io/sofia_gambetta/
     Magdalena Cacciavillani:
-        photo: ../assets/images/students/magdalena_cacciavillani.jpeg
+        photo: ../assets/images/students/magdalena_cacciavillani.jpg
         website: https://magui053.github.io/Magdalena-Cacciavillani/
     Federica Rivedieu:
         photo: ../assets/images/students/federica_rivedieu.png
@@ -45,7 +45,7 @@ students:
         photo: ../assets/images/students/ariana_figueroa.jpg
         website: https://mpmaldonado.github.io/xxxx/
     Diego Rey Sun Han:
-        photo: ../assets/images/students/diego_reysunhan.jpg
+        photo: ../assets/images/students/diego_reysunhan.jpeg
         website: https://diegoreysunhan.github.io/diego-reysunhan/
 ---
 
