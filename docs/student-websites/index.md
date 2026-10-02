@@ -10,7 +10,7 @@ students:
         website: https://arbizaanalia.github.io/analia_arbiza/
     Ariana Figueroa:
         photo: ../assets/images/students/ariana_figueroa.jpg
-        website: https://mpmaldonado.github.io/xxxx/
+        website: https://arianafch.github.io/Ariana_Figueroa/
     Beatriz Segredo:
         photo: ../assets/images/students/beatriz_segredo.jpg
         website: https://beasegredo-design.github.io/beatriz-segredo/
