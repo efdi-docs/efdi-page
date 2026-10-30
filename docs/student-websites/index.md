@@ -47,6 +47,7 @@ students:
     Sofía Gambetta:
         photo: ../assets/images/students/sofia_gambetta.jpg
         website: https://sogambetta.github.io/sofia_gambetta/
+        
 ---
 
 # Estudiantes 
