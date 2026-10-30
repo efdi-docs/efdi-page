@@ -47,9 +47,6 @@ students:
     Sofía Gambetta:
         photo: ../assets/images/students/sofia_gambetta.jpg
         website: https://sogambetta.github.io/sofia_gambetta/
-    Lucía Arreche:
-        photo: ../assets/images/students/lucia_arreche.jpg
-        website: https://sogambetta.github.io/sofia_gambetta/
 ---
 
 # Estudiantes 
