@@ -49,7 +49,7 @@ students:
         website: https://sogambetta.github.io/sofia_gambetta/
     Lucía Arreche:
         photo: ../assets/images/students/lucia_arreche.jpg
-        website: https://sogambetta.github.io/lucia_arreche/
+        website: https://sogambetta.github.io/sofia_gambetta/
 ---
 
 # Estudiantes 
