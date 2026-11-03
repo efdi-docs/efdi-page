@@ -39,7 +39,8 @@ students:
 
 {{ insert_students() }}
 
-[Edición 2024-25](../2023-24/students/){ .shadow-block }
+[Edición 2024-25](2023-24/students/){ .shadow-block }
+
 <div class="button-container">
 
 <a class="md-button" href="https://efdia20212.gitlab.io/efdia202/">Ver sitios web de estudiantes de años anteriores</a>
