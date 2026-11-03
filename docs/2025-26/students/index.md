@@ -38,3 +38,5 @@ students:
 # Students 
 
 {{ insert_students() }}
+
+[Edición 2024-25](/efdi-page/2023-24/students/){ .shadow-block }
